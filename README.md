@@ -25,6 +25,4 @@
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prakrutipathak&show_icons=true&hide_border=true&theme=radical" alt="prakrutipathak" /></p>
-<br>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prakrutipathak&theme=radical" alt="prakrutipathak" /></p>
