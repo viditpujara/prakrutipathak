@@ -9,9 +9,6 @@
 
 **📫 How to reach me**
 - prakrutipathak10@gmail.com
-<!-- adding gif in right side -->
-<img align="right" alt="GIF" src="
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
